@@ -1,2 +1,2 @@
 # SeleniumProjectsSundar1
-seleniumProjects
+seleniumScripts
