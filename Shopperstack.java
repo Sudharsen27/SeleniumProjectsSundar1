@@ -13,7 +13,7 @@ public class Shopperstack {
 		
 		Thread.sleep(25000);
 		d.findElement(By.id("Email")).sendKeys("sundarlingam272000@gmail.com");
-		d.findElement(By.id("Password")).sendKeys("Sudharsen@27");
+		d.findElement(By.id("Password")).sendKeys("@27");
 		d.findElement(By.className("MuiButton-label")).click();
 		d.manage().window().maximize();
 		Thread.sleep(6000);
