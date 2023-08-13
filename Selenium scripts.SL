@@ -1,5 +1,5 @@
 # SeleniumProjectsSundar1
-seleniumScripts-amozon login
+Amozon login
 
 package pratice;
 
