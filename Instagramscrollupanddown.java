@@ -24,9 +24,9 @@ public class Instagramscrollupanddown {
 		Thread.sleep(3000);
 		Actions a=new Actions(d);
 		Thread.sleep(3000);
-		a.scrollByAmount(0, 3000);
+		a.scrollByAmount(0, 6000).perform();
 		Thread.sleep(2000);
-		a.scrollByAmount(0,-3000);
+		a.scrollByAmount(0,-2000).perform();
 		d.close();
 	}
 	
